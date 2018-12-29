@@ -6,7 +6,8 @@
 #include <string>
 #include "Palindrome.h"
 
-
+//An example project that tests whether a string is a Palindrome or not
+//Was made based on a common interview question
 int main()
 {
 	std::string input;

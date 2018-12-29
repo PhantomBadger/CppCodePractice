@@ -6,6 +6,8 @@
 
 #include "Cat.h"
 
+//An example project that shows the use of simple classes, as well as
+//constructors, destructors, and constructor overrides
 int main()
 {
 	//Make a Cat on the stack using the default constructor
