@@ -6,7 +6,7 @@
 
 #include "Person.h"
 
-//An example solution making use of initialization lists
+//An example project making use of initialization lists
 //Comments in the Person.cpp file explain the efficiencies of them
 int main()
 {

@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringStreams", "StringStre
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InitializationLists", "InitializationLists\InitializationLists.vcxproj", "{EF992249-6A39-4E1F-BB68-AB3CBB30EBA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers", "Pointers\Pointers.vcxproj", "{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,8 +53,19 @@ Global
 		{EF992249-6A39-4E1F-BB68-AB3CBB30EBA8}.Release|x64.Build.0 = Release|x64
 		{EF992249-6A39-4E1F-BB68-AB3CBB30EBA8}.Release|x86.ActiveCfg = Release|Win32
 		{EF992249-6A39-4E1F-BB68-AB3CBB30EBA8}.Release|x86.Build.0 = Release|Win32
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Debug|x64.ActiveCfg = Debug|x64
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Debug|x64.Build.0 = Debug|x64
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Debug|x86.Build.0 = Debug|Win32
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Release|x64.ActiveCfg = Release|x64
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Release|x64.Build.0 = Release|x64
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Release|x86.ActiveCfg = Release|Win32
+		{F80CF012-3FF1-44C4-A36D-2E42937A7EA7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4DB930-9949-4D4E-A643-A63CE944613D}
 	EndGlobalSection
 EndGlobal

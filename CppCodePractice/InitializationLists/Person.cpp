@@ -15,8 +15,12 @@ Person::Person(std::string name, short age, short yearOfBirth, bool isHappy)
 	this->isHappy = isHappy;
 }
 */
-//we would actually be calling the default ctor for Identification first, and then the one we want (2 calls total)
-//however doing it this way only callls the desired ctor (1 call total)
+//The following would happen
+// 1) The identification member would be created with the default ctor
+// 2) A temporary object would be constructed using the specified ctor
+// 3) The copy ctor of identification member would be called
+//Which would be three calls total.
+//However doing it the way shown below only calls the desired ctor (1 call total)
 Person::Person(std::string name, short age, short yearOfBirth, bool isHappy) : identification(name, age, yearOfBirth)
 {
 	this->isHappy = isHappy;

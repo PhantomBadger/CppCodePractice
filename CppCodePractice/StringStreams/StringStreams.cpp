@@ -8,7 +8,7 @@
 
 using namespace std;
 
-//An example program making use of string streams 
+//An example project making use of string streams 
 //to combine different type of data
 int main()
 {
