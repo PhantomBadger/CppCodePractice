@@ -1,6 +1,6 @@
-﻿  Person.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
+﻿  stdafx.cpp
+  Identification.cpp
   InitializationLists.cpp
-  InitializationLists.vcxproj -> C:\Users\Josh\Documents\GitHub\CppCodePractice\CppCodePractice\Debug\InitializationLists.exe
-  InitializationLists.vcxproj -> C:\Users\Josh\Documents\GitHub\CppCodePractice\CppCodePractice\Debug\InitializationLists.pdb (Partial PDB)
+  Person.cpp
+  Generating Code...
+  InitializationLists.vcxproj -> G:\CloudStation\GitHub\CppCodePractice\CppCodePractice\Debug\InitializationLists.exe
