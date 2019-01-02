@@ -8,4 +8,4 @@
 
 ## Credits
 
-> A large number of the projects and principles here are based off of the [https://www.caveofprogramming.com/](Cave of Programming) lessons taught by John Purcell.
+> A large number of the projects and principles here are based off of the [Cave of Programming](https://www.caveofprogramming.com/) lessons taught by John Purcell.
