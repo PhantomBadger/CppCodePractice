@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerArithmetic", "Pointe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CharArrays", "CharArrays\CharArrays.vcxproj", "{F2EA9311-746A-4FBA-9525-86528E2B0E5E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReversingAString", "ReversingAString\ReversingAString.vcxproj", "{A55051F5-1ACB-4695-843E-360EE198A8E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{F2EA9311-746A-4FBA-9525-86528E2B0E5E}.Release|x64.Build.0 = Release|x64
 		{F2EA9311-746A-4FBA-9525-86528E2B0E5E}.Release|x86.ActiveCfg = Release|Win32
 		{F2EA9311-746A-4FBA-9525-86528E2B0E5E}.Release|x86.Build.0 = Release|Win32
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Debug|x64.ActiveCfg = Debug|x64
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Debug|x64.Build.0 = Debug|x64
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Debug|x86.Build.0 = Debug|Win32
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Release|x64.ActiveCfg = Release|x64
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Release|x64.Build.0 = Release|x64
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Release|x86.ActiveCfg = Release|Win32
+		{A55051F5-1ACB-4695-843E-360EE198A8E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
