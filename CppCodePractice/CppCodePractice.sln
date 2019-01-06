@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "References", "References\Re
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Const", "Const\Const.vcxproj", "{8044B273-4F53-4454-92C3-574ED3044033}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyConstructor", "CopyConstructor\CopyConstructor.vcxproj", "{3289523B-7A75-4867-8347-815200235BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{8044B273-4F53-4454-92C3-574ED3044033}.Release|x64.Build.0 = Release|x64
 		{8044B273-4F53-4454-92C3-574ED3044033}.Release|x86.ActiveCfg = Release|Win32
 		{8044B273-4F53-4454-92C3-574ED3044033}.Release|x86.Build.0 = Release|Win32
+		{3289523B-7A75-4867-8347-815200235BC2}.Debug|x64.ActiveCfg = Debug|x64
+		{3289523B-7A75-4867-8347-815200235BC2}.Debug|x64.Build.0 = Debug|x64
+		{3289523B-7A75-4867-8347-815200235BC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3289523B-7A75-4867-8347-815200235BC2}.Debug|x86.Build.0 = Debug|Win32
+		{3289523B-7A75-4867-8347-815200235BC2}.Release|x64.ActiveCfg = Release|x64
+		{3289523B-7A75-4867-8347-815200235BC2}.Release|x64.Build.0 = Release|x64
+		{3289523B-7A75-4867-8347-815200235BC2}.Release|x86.ActiveCfg = Release|Win32
+		{3289523B-7A75-4867-8347-815200235BC2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
