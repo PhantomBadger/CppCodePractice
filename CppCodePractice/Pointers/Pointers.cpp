@@ -78,5 +78,14 @@ int main()
 	basicPointerSetup();
 	byReferencePointerUse();
 
+	//Footnote;
+	//It's worth noting that the * is attached to the variable name in declaration, which is a holdover from C
+	//I like to use `int* pInt` for readability, but it only really matters if trying to declare multiple pointers in one line
+	//At which point
+	//	int * pA, pB;
+	//Will create pA as a pointer, and pB as an int
+	//  int *pA, *pB;
+	//Will create them both as pointers, but realistically this should be done on different lines anyway
+
 	return 0;
 }
